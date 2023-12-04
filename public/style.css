@@ -1,0 +1,121 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #e1e1e1;
+}
+#form-container{
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#form>h1{
+    font-size: 5rem;
+    margin: 2rem;
+}
+
+#form>label{
+    font-size: 2rem;
+    color: rgb(5, 75, 86);
+    font-weight: bold;
+}
+#username{
+    font-size: 2rem;
+    padding: 1rem;
+    border: 2px solid rgba(69, 69, 69, 0.803);
+    border-radius: 5rem;
+}
+
+#join-chat{
+    font-size: 1.2rem;
+    font-weight: bold;
+    border: 5px solid rgb(5, 53, 5);
+    cursor: pointer;
+    background-color: rgb(80, 231, 92);
+    display: block;
+    margin: auto;
+    border-radius: 5rem;
+    margin-top: 1rem;
+    padding: 1rem;
+}
+#join-chat:hover{
+    background-color: rgb(16, 156, 16);
+    box-shadow: 2px 3px 8px;
+}
+
+.form-user{
+    display: block; /* display is block*/
+}
+
+.chatroom-container{
+    display: none;  /* display is none*/
+}
+
+.messages{
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+    margin-bottom: 2rem;
+}
+.message{
+    width: fit-content;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    border-radius: 0.8rem;
+    background-color: #ffffff;
+    font-size: 1.2rem;
+    max-width: 40vw;
+    word-wrap: break-word;
+}
+
+.sent-msg-username{
+    display: block;
+    font-weight: bold;
+    color: rgb(8, 75, 88);
+}
+.received-msg-username{
+    display: block;
+    font-weight: bold;
+    color: rgb(31, 78, 7);
+}
+
+.sent{
+    align-self: flex-end;
+    background-color: #DCF8C6;
+}
+
+#send-msg-div{
+    position: fixed;
+    z-index: 1;
+    bottom: 0px; 
+    left: 0px;
+    display: flex;
+    width: 100vw;
+}
+
+#message-input{
+    flex: 1;
+    padding: 0.5rem;
+    border-radius: 2rem;
+    border: 1px solid black;
+}
+#send-btn{
+    padding: 0.5rem 2rem;
+    border-radius: 2rem;
+    background-color: rgb(21, 82, 21);
+    border:1px solid rgb(4, 44, 4);
+    color: white;
+}
+.chatroom-header{
+    text-align: center;
+    background-color: black;
+    padding: 0.5rem;
+    color: white;
+    font-size: 2rem;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
