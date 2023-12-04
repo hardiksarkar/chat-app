@@ -26,6 +26,10 @@ To run the application locally:
 
    ```bash
    git clone https://github.com/your-username/chat-app.git
+1. Clone the repository to your machine:
+
+   ```bash
+   git clone https://github.com/your-username/chat-app.git
    
 2. Navigate to the project directory:
 
