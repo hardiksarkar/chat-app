@@ -41,8 +41,8 @@ To run the application locally:
 
    ```bash
    npm start
-
-5. Open your web browser and go to http://localhost:8888 (or the specified port).
+   
+4. Open your web browser and go to http://localhost:8888 (or the specified port).
 
 ## Technologies Used
 
