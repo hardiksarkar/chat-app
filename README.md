@@ -52,6 +52,12 @@ To run the application locally:
 - Node.js
 - Express
 
+## Screenshots
+
+<img src="https://drive.google.com/uc?export=view&id=1hfBWpYR0bwzwsI5GamczkUDWA4wZxP3-" alt="Screenshot 1" width="400">
+<img src="https://drive.google.com/uc?export=view&id=1j9kWTCPsNRy4Jp0yprTYYEP5pTOj6Ohp" alt="Screenshot 1" width="400">
+<img src="https://drive.google.com/uc?export=view&id=1t0ikaf0XSL5BhFgx-82s_jxFMC21VOB4" alt="Screenshot 1" width="400">
+
 ## Thank You
 
 Thank you for checking out my chat application! I appreciate your interest and hope you find it useful. If you have any feedback or questions, feel free to reach out to me.
