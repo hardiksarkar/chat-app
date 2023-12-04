@@ -9,14 +9,14 @@ This project is a simple chat application built with HTML, CSS, JavaScript, Expr
 1. **Joining a Chat Room:**
    - Launch the application using Node.js.
    - Open your web browser and navigate to `http://localhost:3000` (or the specified port).
-   - Enter a unique username and select a chat room to join.
+   - Enter a unique username and click join button to enter the chat room.
 
 2. **Sending Messages:**
    - Once joined, use the chat input field to type your message.
    - Press "Enter" or click the send button to send the message to the chat room.
 
 3. **Receiving Messages:**
-   - Messages sent by other users in the same chat room will be displayed in the chat area in real-time.
+   - Messages sent by other users in the chat room will be displayed in the chat area in real-time along with their username.
 
 ## Installation
 
