@@ -29,17 +29,17 @@ To run the application locally:
    
 2. Navigate to the project directory:
 
- ```bash
+  ```bash
    cd chat-app
 
 3. Install dependencies:
 
- ```bash
+   ```bash
    npm install
 
 4. Start the application:
 
- ```bash
+   ```bash
    npm start
 
 5. Open your web browser and go to http://localhost:8888 (or the specified port).
