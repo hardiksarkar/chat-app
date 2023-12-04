@@ -26,3 +26,34 @@ To run the application locally:
 
    ```bash
    git clone https://github.com/your-username/chat-app.git
+   
+2. Navigate to the project directory:
+
+ ```bash
+   cd chat-app
+
+3. Install dependencies:
+
+ ```bash
+   npm install
+
+4. Start the application:
+
+ ```bash
+   npm start
+
+5. Open your web browser and go to http://localhost:8888 (or the specified port).
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express
+
+## Thank You
+
+Thank you for checking out my chat application! I appreciate your interest and hope you find it useful. If you have any feedback or questions, feel free to reach out to me.
+
+---
